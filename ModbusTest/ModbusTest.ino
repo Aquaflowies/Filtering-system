@@ -1,4 +1,4 @@
-#include <ModbusMaster>
+#include <ArduinoModbus.h>
 
 define MAX485_RE_NEG 3
 define MAX485_DE 2
